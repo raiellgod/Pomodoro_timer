@@ -120,19 +120,19 @@
 
 
 
-    --tituloh1: 5em;
-
-    --tituloh2: 2em;
-
-    --tamammho-ldot0:1em;
-
-    --tamanho-1dot2:1.2em;
-
-    --tamanho-1dot4:1.4em;
-
-    --tamanho-dot9:0.9em;
-
+    --tamanho-10dot0: 10rem;    
+    --tamanho-7dot0: 7em;
+    --tamanho-6dot0: 6em;
+    --tamanho-5dot0: 5em;
+    --tamanho-4dot0: 4em;
+    --tamanho-3dot0: 3em;
+    --tamanho-2dot0: 2em;    
+    --tamanho-1dot8:1.8em;
     --tamanho-1dot6:1.6em;
+    --tamanho-1dot4:1.4em;    
+    --tamanho-1dot2:1.2em;
+    --tamanho-ldot0:1em;
+    --tamanho-0dot9:0.9em;
 
 
 
